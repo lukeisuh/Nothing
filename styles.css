@@ -14,3 +14,9 @@ h1 {
 p {
     font-size: 1.25em;
 }
+
+@media (max-width: 720px) {
+    .ALL {
+        transform: scale(0.65);
+    }
+}
